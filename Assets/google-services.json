@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "933648726478",
+    "firebase_url": "https://cgnicolaicaruana-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cgnicolaicaruana",
+    "storage_bucket": "cgnicolaicaruana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933648726478:android:88f6cd19e68cfbcfbf139f",
+        "android_client_info": {
+          "package_name": "com.mcast.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933648726478-u7o2qgilrj4gnoj6it4pnqcp9icp9nr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf2fw4MMvkktAwEnZCry2H7OL_90a8H1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933648726478-u7o2qgilrj4gnoj6it4pnqcp9icp9nr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
