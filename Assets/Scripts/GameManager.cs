@@ -9,6 +9,9 @@ public class GameManager : MonoBehaviour
     public float p1Score;
     public float p2Score;
 
+    //public TMPro.TextMeshProUGUI p1Text;
+    //public TMPro.TextMeshProUGUI p2Text;
+
     public Text p1Text;
     public Text p2Text;
 
