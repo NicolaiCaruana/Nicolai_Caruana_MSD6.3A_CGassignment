@@ -6,6 +6,7 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
+    FirebaseController firebaseController;
     public float p1Score;
     public float p2Score;
 
@@ -20,6 +21,7 @@ public class GameManager : MonoBehaviour
     {
         p1Score = 0;
         p2Score = 0;
+        StartCoroutine(FirebaseController.CreateObject());
     }
 
     // Update is called once per frame
