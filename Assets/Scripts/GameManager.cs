@@ -30,6 +30,9 @@ public class GameManager : MonoBehaviour
         p1Text.text = "Player 1: " + p1Score.ToString();
         p2Text.text = "Player 2: " + p2Score.ToString();
 
+        //p1Text.text = "Player 1: " + p1Score.ToString("F1");
+        //p2Text.text = "Player 2: " + p2Score.ToString("F1");
+
         if (p1Score >= 100f || p2Score >= 100f)
         {
             p1Score = 0;

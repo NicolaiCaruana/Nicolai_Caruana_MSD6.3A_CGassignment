@@ -22,7 +22,7 @@ public class DLC : MonoBehaviour
             StartCoroutine(DownloadImage(squareRef));
         }
 
-        if (imgName.Equals("Circle"))
+        else if (imgName.Equals("Circle"))
         {
             StartCoroutine(DownloadImage(circleRef));
         }
