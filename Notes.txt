@@ -1,5 +1,7 @@
 Assignment:
 
+IMPORTANT: After submitting, commits were still made, either to remove unnecessary components or fixes to the scripts
+
 Videos:
 Part 1: Beginning of project
 Part 2-4: Coding and getting the project to work
