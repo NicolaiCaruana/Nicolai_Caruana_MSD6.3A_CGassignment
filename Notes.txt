@@ -1,0 +1,18 @@
+Assignment:
+
+Videos:
+Part 1: Beginning of project
+Part 2-4: Coding and getting the project to work
+Part 5: Checking rules
+
+Unity:
+Importing of Firebase packages
+Scripts
+Scenes etc.
+
+Notes:
+ParallelSync: Did not work, had to take it out due to performance issues and no space.
+Part 5 video: Checked only rules, 40+ seconds only compared to 15-35/40 minutes.
+Used android app version of google-services.json
+
+Link to git: https://github.com/NicolaiCaruana/Nicolai_Caruana_MSD6.3A_CGassignment
